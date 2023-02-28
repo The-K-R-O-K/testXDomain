@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/testXDomain.github.io/static/css/main.1908a229.css",
-    "main.js": "/testXDomain.github.io/static/js/main.2c4fc925.js",
-    "static/js/787.349b0e60.chunk.js": "/testXDomain.github.io/static/js/787.349b0e60.chunk.js",
-    "static/media/XStandardLogo.png": "/testXDomain.github.io/static/media/XStandardLogo.9dd73ad9c7c8f37e5acf.png",
-    "static/media/newLogo.png": "/testXDomain.github.io/static/media/newLogo.8430af46f6e80cec3fd2.png",
-    "static/media/mainBg.png": "/testXDomain.github.io/static/media/mainBg.9e8a1cf66a3cddb3adc9.png",
-    "static/media/maiar.png": "/testXDomain.github.io/static/media/maiar.9754149d8861f357d866.png",
-    "static/media/connectWallet.svg": "/testXDomain.github.io/static/media/connectWallet.61aaa5a6cbc5999d980e55e6363c617a.svg",
-    "static/media/blockchain.svg": "/testXDomain.github.io/static/media/blockchain.509fdb2c14ac08d48d9e9d313ea3e1a3.svg",
-    "index.html": "/testXDomain.github.io/index.html",
-    "main.1908a229.css.map": "/testXDomain.github.io/static/css/main.1908a229.css.map",
-    "main.2c4fc925.js.map": "/testXDomain.github.io/static/js/main.2c4fc925.js.map",
-    "787.349b0e60.chunk.js.map": "/testXDomain.github.io/static/js/787.349b0e60.chunk.js.map"
+    "main.css": "/static/css/main.1908a229.css",
+    "main.js": "/static/js/main.c053298a.js",
+    "static/js/787.349b0e60.chunk.js": "/static/js/787.349b0e60.chunk.js",
+    "static/media/XStandardLogo.png": "/static/media/XStandardLogo.9dd73ad9c7c8f37e5acf.png",
+    "static/media/newLogo.png": "/static/media/newLogo.8430af46f6e80cec3fd2.png",
+    "static/media/mainBg.png": "/static/media/mainBg.9e8a1cf66a3cddb3adc9.png",
+    "static/media/maiar.png": "/static/media/maiar.9754149d8861f357d866.png",
+    "static/media/connectWallet.svg": "/static/media/connectWallet.61aaa5a6cbc5999d980e55e6363c617a.svg",
+    "static/media/blockchain.svg": "/static/media/blockchain.509fdb2c14ac08d48d9e9d313ea3e1a3.svg",
+    "index.html": "/index.html",
+    "main.1908a229.css.map": "/static/css/main.1908a229.css.map",
+    "main.c053298a.js.map": "/static/js/main.c053298a.js.map",
+    "787.349b0e60.chunk.js.map": "/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1908a229.css",
-    "static/js/main.2c4fc925.js"
+    "static/js/main.c053298a.js"
   ]
 }

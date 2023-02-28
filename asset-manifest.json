@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testXDomain/static/css/main.1908a229.css",
-    "main.js": "/testXDomain/static/js/main.42a07535.js",
+    "main.js": "/testXDomain/static/js/main.e74a0531.js",
     "static/js/787.349b0e60.chunk.js": "/testXDomain/static/js/787.349b0e60.chunk.js",
     "static/media/XStandardLogo.png": "/testXDomain/static/media/XStandardLogo.9dd73ad9c7c8f37e5acf.png",
     "static/media/newLogo.png": "/testXDomain/static/media/newLogo.8430af46f6e80cec3fd2.png",
@@ -11,11 +11,11 @@
     "static/media/blockchain.svg": "/testXDomain/static/media/blockchain.509fdb2c14ac08d48d9e9d313ea3e1a3.svg",
     "index.html": "/testXDomain/index.html",
     "main.1908a229.css.map": "/testXDomain/static/css/main.1908a229.css.map",
-    "main.42a07535.js.map": "/testXDomain/static/js/main.42a07535.js.map",
+    "main.e74a0531.js.map": "/testXDomain/static/js/main.e74a0531.js.map",
     "787.349b0e60.chunk.js.map": "/testXDomain/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1908a229.css",
-    "static/js/main.42a07535.js"
+    "static/js/main.e74a0531.js"
   ]
 }

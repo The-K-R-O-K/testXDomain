@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testXDomain/static/css/main.1908a229.css",
-    "main.js": "/testXDomain/static/js/main.7fcde39d.js",
+    "main.js": "/testXDomain/static/js/main.e49b6d52.js",
     "static/js/787.349b0e60.chunk.js": "/testXDomain/static/js/787.349b0e60.chunk.js",
     "static/media/connectWallet.png": "/testXDomain/static/media/connectWallet.f376313f4b381eeeed7e.png",
     "static/media/maiar.png": "/testXDomain/static/media/maiar.fb6a0e1995a28d3dbe09.png",
@@ -11,11 +11,11 @@
     "static/media/blockchain.svg": "/testXDomain/static/media/blockchain.509fdb2c14ac08d48d9e9d313ea3e1a3.svg",
     "index.html": "/testXDomain/index.html",
     "main.1908a229.css.map": "/testXDomain/static/css/main.1908a229.css.map",
-    "main.7fcde39d.js.map": "/testXDomain/static/js/main.7fcde39d.js.map",
+    "main.e49b6d52.js.map": "/testXDomain/static/js/main.e49b6d52.js.map",
     "787.349b0e60.chunk.js.map": "/testXDomain/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1908a229.css",
-    "static/js/main.7fcde39d.js"
+    "static/js/main.e49b6d52.js"
   ]
 }

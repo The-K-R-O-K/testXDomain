@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/testXDomain/static/css/main.5e3ccbe5.css",
-    "main.js": "/testXDomain/static/js/main.c9ce143b.js",
-    "static/js/208.fd7935a5.chunk.js": "/testXDomain/static/js/208.fd7935a5.chunk.js",
-    "static/js/180.3a85a7c2.chunk.js": "/testXDomain/static/js/180.3a85a7c2.chunk.js",
-    "static/js/132.f42feb9d.chunk.js": "/testXDomain/static/js/132.f42feb9d.chunk.js",
-    "static/js/391.7fb3ae46.chunk.js": "/testXDomain/static/js/391.7fb3ae46.chunk.js",
-    "static/js/153.1a87d05b.chunk.js": "/testXDomain/static/js/153.1a87d05b.chunk.js",
-    "static/js/787.349b0e60.chunk.js": "/testXDomain/static/js/787.349b0e60.chunk.js",
-    "static/js/837.008371d6.chunk.js": "/testXDomain/static/js/837.008371d6.chunk.js",
-    "static/js/159.4524bea4.chunk.js": "/testXDomain/static/js/159.4524bea4.chunk.js",
+    "main.css": "/testXDomain/static/css/main.66070b06.css",
+    "main.js": "/testXDomain/static/js/main.12283311.js",
+    "static/js/208.4591991b.chunk.js": "/testXDomain/static/js/208.4591991b.chunk.js",
+    "static/js/180.9a228194.chunk.js": "/testXDomain/static/js/180.9a228194.chunk.js",
+    "static/js/132.0a7ef173.chunk.js": "/testXDomain/static/js/132.0a7ef173.chunk.js",
+    "static/js/391.6e839dd4.chunk.js": "/testXDomain/static/js/391.6e839dd4.chunk.js",
+    "static/js/153.dd473402.chunk.js": "/testXDomain/static/js/153.dd473402.chunk.js",
+    "static/js/787.1e83dcc9.chunk.js": "/testXDomain/static/js/787.1e83dcc9.chunk.js",
+    "static/js/837.ca7e2c88.chunk.js": "/testXDomain/static/js/837.ca7e2c88.chunk.js",
+    "static/js/159.77570f28.chunk.js": "/testXDomain/static/js/159.77570f28.chunk.js",
     "static/media/connectWallet.png": "/testXDomain/static/media/connectWallet.f376313f4b381eeeed7e.png",
     "static/media/maiar.png": "/testXDomain/static/media/maiar.fb6a0e1995a28d3dbe09.png",
     "static/media/XStandardLogo.png": "/testXDomain/static/media/XStandardLogo.9dd73ad9c7c8f37e5acf.png",
@@ -17,19 +17,19 @@
     "static/media/mainBgBlue.png": "/testXDomain/static/media/mainBgBlue.cb772e6356a0acad3bc6.png",
     "static/media/blockchain.svg": "/testXDomain/static/media/blockchain.509fdb2c14ac08d48d9e9d313ea3e1a3.svg",
     "index.html": "/testXDomain/index.html",
-    "main.5e3ccbe5.css.map": "/testXDomain/static/css/main.5e3ccbe5.css.map",
-    "main.c9ce143b.js.map": "/testXDomain/static/js/main.c9ce143b.js.map",
-    "208.fd7935a5.chunk.js.map": "/testXDomain/static/js/208.fd7935a5.chunk.js.map",
-    "180.3a85a7c2.chunk.js.map": "/testXDomain/static/js/180.3a85a7c2.chunk.js.map",
-    "132.f42feb9d.chunk.js.map": "/testXDomain/static/js/132.f42feb9d.chunk.js.map",
-    "391.7fb3ae46.chunk.js.map": "/testXDomain/static/js/391.7fb3ae46.chunk.js.map",
-    "153.1a87d05b.chunk.js.map": "/testXDomain/static/js/153.1a87d05b.chunk.js.map",
-    "787.349b0e60.chunk.js.map": "/testXDomain/static/js/787.349b0e60.chunk.js.map",
-    "837.008371d6.chunk.js.map": "/testXDomain/static/js/837.008371d6.chunk.js.map",
-    "159.4524bea4.chunk.js.map": "/testXDomain/static/js/159.4524bea4.chunk.js.map"
+    "main.66070b06.css.map": "/testXDomain/static/css/main.66070b06.css.map",
+    "main.12283311.js.map": "/testXDomain/static/js/main.12283311.js.map",
+    "208.4591991b.chunk.js.map": "/testXDomain/static/js/208.4591991b.chunk.js.map",
+    "180.9a228194.chunk.js.map": "/testXDomain/static/js/180.9a228194.chunk.js.map",
+    "132.0a7ef173.chunk.js.map": "/testXDomain/static/js/132.0a7ef173.chunk.js.map",
+    "391.6e839dd4.chunk.js.map": "/testXDomain/static/js/391.6e839dd4.chunk.js.map",
+    "153.dd473402.chunk.js.map": "/testXDomain/static/js/153.dd473402.chunk.js.map",
+    "787.1e83dcc9.chunk.js.map": "/testXDomain/static/js/787.1e83dcc9.chunk.js.map",
+    "837.ca7e2c88.chunk.js.map": "/testXDomain/static/js/837.ca7e2c88.chunk.js.map",
+    "159.77570f28.chunk.js.map": "/testXDomain/static/js/159.77570f28.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e3ccbe5.css",
-    "static/js/main.c9ce143b.js"
+    "static/css/main.66070b06.css",
+    "static/js/main.12283311.js"
   ]
 }

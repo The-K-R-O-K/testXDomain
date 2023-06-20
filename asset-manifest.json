@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testXDomain/static/css/main.66070b06.css",
-    "main.js": "/testXDomain/static/js/main.12283311.js",
+    "main.css": "/testXDomain/static/css/main.494ea7b7.css",
+    "main.js": "/testXDomain/static/js/main.6be0a0d6.js",
     "static/js/208.4591991b.chunk.js": "/testXDomain/static/js/208.4591991b.chunk.js",
     "static/js/180.9a228194.chunk.js": "/testXDomain/static/js/180.9a228194.chunk.js",
     "static/js/132.0a7ef173.chunk.js": "/testXDomain/static/js/132.0a7ef173.chunk.js",
@@ -15,10 +15,10 @@
     "static/media/XStandardLogo.png": "/testXDomain/static/media/XStandardLogo.9dd73ad9c7c8f37e5acf.png",
     "static/media/newLogo.png": "/testXDomain/static/media/newLogo.8430af46f6e80cec3fd2.png",
     "static/media/mainBgBlue.png": "/testXDomain/static/media/mainBgBlue.cb772e6356a0acad3bc6.png",
-    "static/media/blockchain.svg": "/testXDomain/static/media/blockchain.509fdb2c14ac08d48d9e9d313ea3e1a3.svg",
+    "static/media/blockchain.svg": "/testXDomain/static/media/blockchain.e452743d2987c8195c7116b7ebbc6a6c.svg",
     "index.html": "/testXDomain/index.html",
-    "main.66070b06.css.map": "/testXDomain/static/css/main.66070b06.css.map",
-    "main.12283311.js.map": "/testXDomain/static/js/main.12283311.js.map",
+    "main.494ea7b7.css.map": "/testXDomain/static/css/main.494ea7b7.css.map",
+    "main.6be0a0d6.js.map": "/testXDomain/static/js/main.6be0a0d6.js.map",
     "208.4591991b.chunk.js.map": "/testXDomain/static/js/208.4591991b.chunk.js.map",
     "180.9a228194.chunk.js.map": "/testXDomain/static/js/180.9a228194.chunk.js.map",
     "132.0a7ef173.chunk.js.map": "/testXDomain/static/js/132.0a7ef173.chunk.js.map",
@@ -29,7 +29,7 @@
     "159.77570f28.chunk.js.map": "/testXDomain/static/js/159.77570f28.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66070b06.css",
-    "static/js/main.12283311.js"
+    "static/css/main.494ea7b7.css",
+    "static/js/main.6be0a0d6.js"
   ]
 }

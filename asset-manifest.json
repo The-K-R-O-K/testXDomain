@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testXDomain/static/css/main.494ea7b7.css",
-    "main.js": "/testXDomain/static/js/main.a1f1b81d.js",
+    "main.css": "/testXDomain/static/css/main.3709f15a.css",
+    "main.js": "/testXDomain/static/js/main.53e76692.js",
     "static/js/208.4591991b.chunk.js": "/testXDomain/static/js/208.4591991b.chunk.js",
     "static/js/760.7f7074bd.chunk.js": "/testXDomain/static/js/760.7f7074bd.chunk.js",
     "static/js/66.49fdcd6e.chunk.js": "/testXDomain/static/js/66.49fdcd6e.chunk.js",
@@ -17,8 +17,8 @@
     "static/media/mainBgBlue.png": "/testXDomain/static/media/mainBgBlue.cb772e6356a0acad3bc6.png",
     "static/media/blockchain.svg": "/testXDomain/static/media/blockchain.52358dd6e0ebc0a8525b7f1df777dd8e.svg",
     "index.html": "/testXDomain/index.html",
-    "main.494ea7b7.css.map": "/testXDomain/static/css/main.494ea7b7.css.map",
-    "main.a1f1b81d.js.map": "/testXDomain/static/js/main.a1f1b81d.js.map",
+    "main.3709f15a.css.map": "/testXDomain/static/css/main.3709f15a.css.map",
+    "main.53e76692.js.map": "/testXDomain/static/js/main.53e76692.js.map",
     "208.4591991b.chunk.js.map": "/testXDomain/static/js/208.4591991b.chunk.js.map",
     "760.7f7074bd.chunk.js.map": "/testXDomain/static/js/760.7f7074bd.chunk.js.map",
     "66.49fdcd6e.chunk.js.map": "/testXDomain/static/js/66.49fdcd6e.chunk.js.map",
@@ -29,7 +29,7 @@
     "159.77570f28.chunk.js.map": "/testXDomain/static/js/159.77570f28.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.494ea7b7.css",
-    "static/js/main.a1f1b81d.js"
+    "static/css/main.3709f15a.css",
+    "static/js/main.53e76692.js"
   ]
 }

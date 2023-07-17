@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/testXDomain/static/css/main.3709f15a.css",
-    "main.js": "/testXDomain/static/js/main.53e76692.js",
+    "main.js": "/testXDomain/static/js/main.927bc9bf.js",
     "static/js/208.4591991b.chunk.js": "/testXDomain/static/js/208.4591991b.chunk.js",
     "static/js/760.7f7074bd.chunk.js": "/testXDomain/static/js/760.7f7074bd.chunk.js",
     "static/js/66.49fdcd6e.chunk.js": "/testXDomain/static/js/66.49fdcd6e.chunk.js",
     "static/js/391.a9bff5d6.chunk.js": "/testXDomain/static/js/391.a9bff5d6.chunk.js",
-    "static/js/952.e27f4a65.chunk.js": "/testXDomain/static/js/952.e27f4a65.chunk.js",
+    "static/js/952.50153241.chunk.js": "/testXDomain/static/js/952.50153241.chunk.js",
     "static/js/787.1e83dcc9.chunk.js": "/testXDomain/static/js/787.1e83dcc9.chunk.js",
     "static/js/774.fe374024.chunk.js": "/testXDomain/static/js/774.fe374024.chunk.js",
     "static/js/159.77570f28.chunk.js": "/testXDomain/static/js/159.77570f28.chunk.js",
@@ -18,18 +18,18 @@
     "static/media/blockchain.svg": "/testXDomain/static/media/blockchain.52358dd6e0ebc0a8525b7f1df777dd8e.svg",
     "index.html": "/testXDomain/index.html",
     "main.3709f15a.css.map": "/testXDomain/static/css/main.3709f15a.css.map",
-    "main.53e76692.js.map": "/testXDomain/static/js/main.53e76692.js.map",
+    "main.927bc9bf.js.map": "/testXDomain/static/js/main.927bc9bf.js.map",
     "208.4591991b.chunk.js.map": "/testXDomain/static/js/208.4591991b.chunk.js.map",
     "760.7f7074bd.chunk.js.map": "/testXDomain/static/js/760.7f7074bd.chunk.js.map",
     "66.49fdcd6e.chunk.js.map": "/testXDomain/static/js/66.49fdcd6e.chunk.js.map",
     "391.a9bff5d6.chunk.js.map": "/testXDomain/static/js/391.a9bff5d6.chunk.js.map",
-    "952.e27f4a65.chunk.js.map": "/testXDomain/static/js/952.e27f4a65.chunk.js.map",
+    "952.50153241.chunk.js.map": "/testXDomain/static/js/952.50153241.chunk.js.map",
     "787.1e83dcc9.chunk.js.map": "/testXDomain/static/js/787.1e83dcc9.chunk.js.map",
     "774.fe374024.chunk.js.map": "/testXDomain/static/js/774.fe374024.chunk.js.map",
     "159.77570f28.chunk.js.map": "/testXDomain/static/js/159.77570f28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3709f15a.css",
-    "static/js/main.53e76692.js"
+    "static/js/main.927bc9bf.js"
   ]
 }

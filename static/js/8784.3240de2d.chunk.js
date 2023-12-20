@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkui=self.webpackChunkui||[]).push([[8784],{48784:(s,u,e)=>{e.r(u),e.d(u,{css:()=>a.a,default:()=>a.b});var a=e(32699);e(69733);(0,a.d)()}}]);
+//# sourceMappingURL=8784.3240de2d.chunk.js.map

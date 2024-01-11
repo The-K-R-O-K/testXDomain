@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testXDomain/static/css/main.c88c9de8.css",
-    "main.js": "/testXDomain/static/js/main.c50c2612.js",
+    "main.js": "/testXDomain/static/js/main.6a7e7fd6.js",
     "static/js/6839.f49d6a0c.chunk.js": "/testXDomain/static/js/6839.f49d6a0c.chunk.js",
     "static/js/9181.0d14813e.chunk.js": "/testXDomain/static/js/9181.0d14813e.chunk.js",
     "static/js/1859.7d381f2f.chunk.js": "/testXDomain/static/js/1859.7d381f2f.chunk.js",
@@ -85,7 +85,7 @@
     "static/media/blockchain.svg": "/testXDomain/static/media/blockchain.52358dd6e0ebc0a8525b7f1df777dd8e.svg",
     "index.html": "/testXDomain/index.html",
     "main.c88c9de8.css.map": "/testXDomain/static/css/main.c88c9de8.css.map",
-    "main.c50c2612.js.map": "/testXDomain/static/js/main.c50c2612.js.map",
+    "main.6a7e7fd6.js.map": "/testXDomain/static/js/main.6a7e7fd6.js.map",
     "6839.f49d6a0c.chunk.js.map": "/testXDomain/static/js/6839.f49d6a0c.chunk.js.map",
     "9181.0d14813e.chunk.js.map": "/testXDomain/static/js/9181.0d14813e.chunk.js.map",
     "1859.7d381f2f.chunk.js.map": "/testXDomain/static/js/1859.7d381f2f.chunk.js.map",
@@ -164,6 +164,6 @@
   },
   "entrypoints": [
     "static/css/main.c88c9de8.css",
-    "static/js/main.c50c2612.js"
+    "static/js/main.6a7e7fd6.js"
   ]
 }
